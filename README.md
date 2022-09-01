@@ -1,7 +1,7 @@
 
 <img src="logo.png" width="200px" align="right">
   
-<h1 style="font-size:3em;"> DIVVY UP</h1>
+<h1 style="font-size:3em;">GIUSEPPE GIUSTI</h1>
 
 *ENG* : This online system is an integration of the e-commerce shopping service and the customer management process which allows both, to take place a single control system.
 
